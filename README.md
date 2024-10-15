@@ -1,6 +1,6 @@
 # Activity 08: Trivia 2.0
 ## Clone the repo as instructed.
-## Modify the trivia.c to suite your group's source code.
+## Modify the trivia2.0.c to suite your group's source code.
 ### Ask for the user's name before starting the questions. 
 ### The trivia should be in a particular theme which the questions are based upon. 
 ### Ask the user ten (10) questions and give the score after the end of the 10th question. 
